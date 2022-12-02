@@ -3,35 +3,9 @@
 
 Hi! This project is completed by Esha Shelar, Arva Kachwala, Rahul Tripathi
 
+**For Backend** - `npm start`
 
-
-# Install Dependencies
-
-**For Backend** - `npm i`
-
-**For Frontend** - `cd frontend` ` npm i`
-
-## Env Variables
-
-Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
-
-**Essential Variables**
-PORT=
-DB_URI =
-STRIPE_API_KEY=
-STRIPE_SECRET_KEY=
-JWT_SECRET=
-JWT_EXPIRE=
-COOKIE_EXPIRE=
-SMPT_SERVICE =
-SMPT_MAIL=
-SMPT_PASSWORD=
-SMPT_HOST=
-SMPT_PORT=
-CLOUDINARY_NAME
-CLOUDINARY_API_KEY
-CLOUDINARY_API_SECRET
-_fill each filed with your info respectively_
+**For Frontend** - `cd frontend` ` npm start`
 
 ## Author
 Esha Shelar, Arva Kachwala, Rahul Tripathi
@@ -54,3 +28,4 @@ Esha Shelar, Arva Kachwala, Rahul Tripathi
 ![image](https://user-images.githubusercontent.com/79027604/205254898-4dac8dd1-5ce9-48e0-8f2a-e8a09b335a21.png)
 ![image](https://user-images.githubusercontent.com/79027604/205254947-f0ef0ea1-caad-4bd5-8a86-8d9fd70eb931.png)
 ![image](https://user-images.githubusercontent.com/79027604/205255021-7eb368ae-f08e-4ecc-a7bb-bfafbcedb4b3.png)
+![image](https://user-images.githubusercontent.com/79027604/205357799-589636d9-2167-44ee-a588-a96e0dc5d199.png)
