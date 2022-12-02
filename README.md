@@ -1,5 +1,5 @@
 # ERA-Ecommerce
-# MERN E-COMMERCE TUTORIAL
+# MERN E-COMMERCE
 
 Hi! This project is completed by Esha Shelar, Arva Kachwala, Rahul Tripathi
 
