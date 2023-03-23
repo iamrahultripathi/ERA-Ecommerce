@@ -1,7 +1,7 @@
 # ERA-Ecommerce
 # MERN E-COMMERCE
 
-Hi! This project is completed by Esha Shelar, Arva Kachwala, Rahul Tripathi
+Hi! This project is completed by Rahul Tripathi, Esha Shelar, Arva Kachwala
 
 **For Backend** - `npm start`
 
