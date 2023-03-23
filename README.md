@@ -8,7 +8,7 @@ Hi! This project is completed by Rahul Tripathi, Esha Shelar, Arva Kachwala
 **For Frontend** - `cd frontend` ` npm start`
 
 ## Author
-Esha Shelar, Arva Kachwala, Rahul Tripathi
+Rahul Tripathi, Esha Shelar, Arva Kachwala
 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/79027604/205254302-4d8cfe0f-aef9-44eb-aef6-293ec8b0f2db.png)
